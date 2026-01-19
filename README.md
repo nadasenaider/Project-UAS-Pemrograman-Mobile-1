@@ -15,4 +15,4 @@ Source code aplikasi terdapat pada folder `Jejaku`.
 
 # Link Pendukung
 - Video UX Prototype: https://youtube.com/shorts/iitiJMOwEDg?si=JMUwYtpRyJdbjFx2
-- ClickUp Timeline  : https://sharing.clickup.com/90181793594/l/h/6-901811789980-1/bd4e6a6f15e65cd
+- ClickUp Timeline  : https://sharing.clickup.com/90181793594/l/h/4-90189389326-1/600c763beaa9b2b
